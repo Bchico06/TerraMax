@@ -1,0 +1,2126 @@
+[
+    {
+        "id": 1,
+        "name": "Tornado",
+        "species": "Equino",
+        "breed": "Percherón",
+        "birth_date": "2019-12-15",
+        "age": "5 años, 3 meses",
+        "weight": 278,
+        "location": "Corral A",
+        "health": "En recuperación",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2021-01-20",
+        "vaccination_history": [
+            {
+                "id": "V1-5",
+                "date": "2024-08-30",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V1-4",
+                "date": "2024-06-02",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V1-3",
+                "date": "2024-03-18",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V1-2",
+                "date": "2023-08-26",
+                "vaccine": "Aftosa",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V1-1",
+                "date": "2022-09-13",
+                "vaccine": "Tétanos",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M1-1",
+                "date": "2024-01-07",
+                "type": "Cirugía",
+                "medications": [
+                    "Antiparasitario",
+                    "Antibiótico"
+                ],
+                "notes": "Procedimiento quirúrgico menor. Recuperación normal."
+            },
+            {
+                "id": "M1-3",
+                "date": "2023-02-23",
+                "type": "Enfermedad",
+                "medications": [
+                    "Suero",
+                    "Antiinflamatorio"
+                ],
+                "notes": "Presenta problemas musculares. Requiere tratamiento."
+            },
+            {
+                "id": "M1-2",
+                "date": "2023-01-27",
+                "type": "Tratamiento",
+                "medications": [
+                    "Vitaminas"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 278
+            },
+            {
+                "date": "2024-08-07",
+                "weight": 283
+            },
+            {
+                "date": "2023-12-09",
+                "weight": 304
+            },
+            {
+                "date": "2023-04-11",
+                "weight": 297
+            },
+            {
+                "date": "2022-08-12",
+                "weight": 264
+            },
+            {
+                "date": "2021-12-13",
+                "weight": 295
+            },
+            {
+                "date": "2021-04-15",
+                "weight": 320
+            },
+            {
+                "date": "2020-08-16",
+                "weight": 266
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Orejón",
+        "species": "Porcino",
+        "breed": "Duroc",
+        "birth_date": "2016-11-27",
+        "age": "8 años, 4 meses",
+        "weight": 58,
+        "location": "Potrero Norte",
+        "health": "En recuperación",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2020-12-31",
+        "vaccination_history": [
+            {
+                "id": "V2-2",
+                "date": "2024-09-11",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V2-1",
+                "date": "2024-05-15",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M2-2",
+                "date": "2024-01-25",
+                "type": "Cirugía",
+                "medications": [
+                    "Vitaminas",
+                    "Antiinflamatorio",
+                    "Antiparasitario"
+                ],
+                "notes": "Procedimiento quirúrgico menor. Recuperación normal."
+            },
+            {
+                "id": "M2-1",
+                "date": "2024-01-17",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M2-3",
+                "date": "2022-11-06",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antiparasitario"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 58
+            },
+            {
+                "date": "2024-03-21",
+                "weight": 57
+            },
+            {
+                "date": "2023-03-06",
+                "weight": 66
+            },
+            {
+                "date": "2022-02-18",
+                "weight": 59
+            },
+            {
+                "date": "2021-02-02",
+                "weight": 58
+            },
+            {
+                "date": "2020-01-18",
+                "weight": 61
+            },
+            {
+                "date": "2019-01-02",
+                "weight": 60
+            },
+            {
+                "date": "2017-12-17",
+                "weight": 66
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Fuego",
+        "species": "Equino",
+        "breed": "Cuarto de Milla",
+        "birth_date": "2023-09-26",
+        "age": "1 años, 6 meses",
+        "weight": 316,
+        "location": "Potrero Norte",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2024-07-24",
+        "vaccination_history": [
+            {
+                "id": "V3-2",
+                "date": "2024-12-01",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V3-1",
+                "date": "2024-06-01",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V3-3",
+                "date": "2024-02-15",
+                "vaccine": "Tétanos",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 316
+            },
+            {
+                "date": "2024-11-18",
+                "weight": 319
+            },
+            {
+                "date": "2024-07-02",
+                "weight": 351
+            },
+            {
+                "date": "2024-02-14",
+                "weight": 321
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Peludo",
+        "species": "Ovino",
+        "breed": "Suffolk",
+        "birth_date": "2020-08-16",
+        "age": "4 años, 7 meses",
+        "weight": 65,
+        "location": "Establo",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2023-06-28",
+        "vaccination_history": [
+            {
+                "id": "V4-1",
+                "date": "2024-12-20",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M4-1",
+                "date": "2024-12-04",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M4-3",
+                "date": "2024-03-04",
+                "type": "Enfermedad",
+                "medications": [
+                    "Antiparasitario",
+                    "Antibiótico"
+                ],
+                "notes": "Presenta problemas digestivos. Requiere tratamiento."
+            },
+            {
+                "id": "M4-2",
+                "date": "2023-11-05",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antiinflamatorio",
+                    "Antibiótico"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 65
+            },
+            {
+                "date": "2024-09-07",
+                "weight": 71
+            },
+            {
+                "date": "2024-02-09",
+                "weight": 63
+            },
+            {
+                "date": "2023-07-13",
+                "weight": 66
+            },
+            {
+                "date": "2022-12-14",
+                "weight": 73
+            },
+            {
+                "date": "2022-05-17",
+                "weight": 68
+            },
+            {
+                "date": "2021-10-18",
+                "weight": 63
+            },
+            {
+                "date": "2021-03-21",
+                "weight": 63
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Nube",
+        "species": "Ovino",
+        "breed": "Merino",
+        "birth_date": "2015-05-03",
+        "age": "9 años, 11 meses",
+        "weight": 91,
+        "location": "Campo Este",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2022-12-18",
+        "vaccination_history": [
+            {
+                "id": "V5-1",
+                "date": "2025-02-28",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V5-3",
+                "date": "2024-09-03",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V5-2",
+                "date": "2024-08-09",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 91
+            },
+            {
+                "date": "2024-01-09",
+                "weight": 90
+            },
+            {
+                "date": "2022-10-13",
+                "weight": 91
+            },
+            {
+                "date": "2021-07-17",
+                "weight": 87
+            },
+            {
+                "date": "2020-04-20",
+                "weight": 101
+            },
+            {
+                "date": "2019-01-23",
+                "weight": 97
+            },
+            {
+                "date": "2017-10-27",
+                "weight": 89
+            },
+            {
+                "date": "2016-07-31",
+                "weight": 89
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Blanco",
+        "species": "Ovino",
+        "breed": "Corriedale",
+        "birth_date": "2015-07-30",
+        "age": "9 años, 8 meses",
+        "weight": 119,
+        "location": "Campo Este",
+        "health": "Enfermo",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2017-05-17",
+        "vaccination_history": [
+            {
+                "id": "V6-1",
+                "date": "2024-08-03",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M6-1",
+                "date": "2024-10-28",
+                "type": "Enfermedad",
+                "medications": [
+                    "Vitaminas",
+                    "Antiparasitario"
+                ],
+                "notes": "Presenta problemas cutáneos. Requiere tratamiento."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 119
+            },
+            {
+                "date": "2024-01-20",
+                "weight": 138
+            },
+            {
+                "date": "2022-11-04",
+                "weight": 114
+            },
+            {
+                "date": "2021-08-19",
+                "weight": 129
+            },
+            {
+                "date": "2020-06-03",
+                "weight": 117
+            },
+            {
+                "date": "2019-03-19",
+                "weight": 139
+            },
+            {
+                "date": "2018-01-01",
+                "weight": 126
+            },
+            {
+                "date": "2016-10-16",
+                "weight": 138
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Rizo",
+        "species": "Ovino",
+        "breed": "Merino",
+        "birth_date": "2024-02-15",
+        "age": "1 años, 1 meses",
+        "weight": 35,
+        "location": "Campo Sur",
+        "health": "Enfermo",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2024-04-01",
+        "vaccination_history": [
+            {
+                "id": "V7-2",
+                "date": "2024-07-26",
+                "vaccine": "Rinotraqueítis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V7-1",
+                "date": "2024-06-23",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M7-1",
+                "date": "2024-03-10",
+                "type": "Enfermedad",
+                "medications": [
+                    "Suero"
+                ],
+                "notes": "Presenta problemas digestivos. Requiere tratamiento."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 35
+            },
+            {
+                "date": "2024-11-19",
+                "weight": 35
+            },
+            {
+                "date": "2024-07-04",
+                "weight": 40
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Montés",
+        "species": "Caprino",
+        "breed": "Alpina",
+        "birth_date": "2017-05-20",
+        "age": "7 años, 10 meses",
+        "weight": 28,
+        "location": "Corral B",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2021-08-30",
+        "vaccination_history": [
+            {
+                "id": "V8-3",
+                "date": "2024-03-09",
+                "vaccine": "Tétanos",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V8-1",
+                "date": "2023-12-02",
+                "vaccine": "Tétanos",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V8-2",
+                "date": "2022-09-02",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 28
+            },
+            {
+                "date": "2024-04-12",
+                "weight": 27
+            },
+            {
+                "date": "2023-04-19",
+                "weight": 31
+            },
+            {
+                "date": "2022-04-25",
+                "weight": 30
+            },
+            {
+                "date": "2021-05-01",
+                "weight": 29
+            },
+            {
+                "date": "2020-05-07",
+                "weight": 29
+            },
+            {
+                "date": "2019-05-14",
+                "weight": 29
+            },
+            {
+                "date": "2018-05-20",
+                "weight": 27
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Blanco",
+        "species": "Ovino",
+        "breed": "Texel",
+        "birth_date": "2016-04-23",
+        "age": "8 años, 11 meses",
+        "weight": 76,
+        "location": "Corral A",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2017-07-18",
+        "vaccination_history": [
+            {
+                "id": "V9-1",
+                "date": "2023-11-11",
+                "vaccine": "Carbunclo",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M9-2",
+                "date": "2022-09-27",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M9-1",
+                "date": "2022-07-18",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antiparasitario",
+                    "Antiinflamatorio"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 76
+            },
+            {
+                "date": "2024-02-23",
+                "weight": 85
+            },
+            {
+                "date": "2023-01-11",
+                "weight": 86
+            },
+            {
+                "date": "2021-11-29",
+                "weight": 84
+            },
+            {
+                "date": "2020-10-17",
+                "weight": 73
+            },
+            {
+                "date": "2019-09-05",
+                "weight": 82
+            },
+            {
+                "date": "2018-07-24",
+                "weight": 74
+            },
+            {
+                "date": "2017-06-11",
+                "weight": 73
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Trueno",
+        "species": "Equino",
+        "breed": "Percherón",
+        "birth_date": "2022-08-06",
+        "age": "2 años, 8 meses",
+        "weight": 460,
+        "location": "Lote 1",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2022-11-04",
+        "vaccination_history": [
+            {
+                "id": "V10-5",
+                "date": "2024-08-05",
+                "vaccine": "Tétanos",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V10-3",
+                "date": "2024-05-21",
+                "vaccine": "Aftosa",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V10-2",
+                "date": "2023-12-30",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V10-1",
+                "date": "2023-10-04",
+                "vaccine": "Carbunclo",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V10-4",
+                "date": "2023-09-17",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M10-1",
+                "date": "2023-09-07",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M10-2",
+                "date": "2023-04-04",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antibiótico",
+                    "Antibiótico",
+                    "Suero"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 460
+            },
+            {
+                "date": "2024-12-06",
+                "weight": 513
+            },
+            {
+                "date": "2024-08-07",
+                "weight": 535
+            },
+            {
+                "date": "2024-04-08",
+                "weight": 455
+            },
+            {
+                "date": "2023-12-09",
+                "weight": 473
+            },
+            {
+                "date": "2023-08-10",
+                "weight": 529
+            },
+            {
+                "date": "2023-04-11",
+                "weight": 525
+            },
+            {
+                "date": "2022-12-11",
+                "weight": 519
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Manchado 11",
+        "species": "Porcino",
+        "breed": "Pietrain",
+        "birth_date": "2022-07-24",
+        "age": "2 años, 8 meses",
+        "weight": 183,
+        "location": "Establo",
+        "health": "Enfermo",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2024-12-25",
+        "vaccination_history": [
+            {
+                "id": "V11-2",
+                "date": "2024-12-29",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V11-1",
+                "date": "2023-10-21",
+                "vaccine": "Aftosa",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M11-1",
+                "date": "2024-10-17",
+                "type": "Enfermedad",
+                "medications": [
+                    "Vitaminas"
+                ],
+                "notes": "Presenta problemas digestivos. Requiere tratamiento."
+            },
+            {
+                "id": "M11-2",
+                "date": "2024-05-17",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 183
+            },
+            {
+                "date": "2024-12-04",
+                "weight": 183
+            },
+            {
+                "date": "2024-08-03",
+                "weight": 209
+            },
+            {
+                "date": "2024-04-02",
+                "weight": 175
+            },
+            {
+                "date": "2023-12-01",
+                "weight": 215
+            },
+            {
+                "date": "2023-07-31",
+                "weight": 185
+            },
+            {
+                "date": "2023-03-30",
+                "weight": 192
+            },
+            {
+                "date": "2022-11-27",
+                "weight": 176
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Estrella 12",
+        "species": "Equino",
+        "breed": "Pura Sangre",
+        "birth_date": "2022-07-22",
+        "age": "2 años, 8 meses",
+        "weight": 368,
+        "location": "Establo",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2025-02-08",
+        "vaccination_history": [
+            {
+                "id": "V12-2",
+                "date": "2024-04-18",
+                "vaccine": "Carbunclo",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V12-3",
+                "date": "2023-12-26",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V12-1",
+                "date": "2023-10-03",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M12-1",
+                "date": "2023-10-09",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M12-2",
+                "date": "2022-12-17",
+                "type": "Cirugía",
+                "medications": [
+                    "Antiinflamatorio",
+                    "Suero"
+                ],
+                "notes": "Procedimiento quirúrgico de emergencia. Recuperación normal."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 368
+            },
+            {
+                "date": "2024-12-04",
+                "weight": 413
+            },
+            {
+                "date": "2024-08-03",
+                "weight": 355
+            },
+            {
+                "date": "2024-04-02",
+                "weight": 406
+            },
+            {
+                "date": "2023-12-01",
+                "weight": 351
+            },
+            {
+                "date": "2023-07-31",
+                "weight": 403
+            },
+            {
+                "date": "2023-03-30",
+                "weight": 422
+            },
+            {
+                "date": "2022-11-27",
+                "weight": 389
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Tornado 13",
+        "species": "Equino",
+        "breed": "Pura Sangre",
+        "birth_date": "2021-01-19",
+        "age": "4 años, 2 meses",
+        "weight": 254,
+        "location": "Potrero Sur",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2021-06-25",
+        "vaccination_history": [
+            {
+                "id": "V13-5",
+                "date": "2024-04-23",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V13-2",
+                "date": "2023-10-09",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V13-3",
+                "date": "2023-10-02",
+                "vaccine": "Rabia",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V13-1",
+                "date": "2023-03-24",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V13-4",
+                "date": "2022-11-06",
+                "vaccine": "Rabia",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M13-1",
+                "date": "2022-12-03",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 254
+            },
+            {
+                "date": "2024-09-26",
+                "weight": 249
+            },
+            {
+                "date": "2024-03-18",
+                "weight": 248
+            },
+            {
+                "date": "2023-09-08",
+                "weight": 264
+            },
+            {
+                "date": "2023-02-28",
+                "weight": 268
+            },
+            {
+                "date": "2022-08-20",
+                "weight": 246
+            },
+            {
+                "date": "2022-02-09",
+                "weight": 293
+            },
+            {
+                "date": "2021-08-01",
+                "weight": 248
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Peludo 14",
+        "species": "Ovino",
+        "breed": "Merino",
+        "birth_date": "2022-08-20",
+        "age": "2 años, 7 meses",
+        "weight": 68,
+        "location": "Lote 1",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2024-01-07",
+        "vaccination_history": [
+            {
+                "id": "V14-2",
+                "date": "2024-01-16",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V14-4",
+                "date": "2023-11-06",
+                "vaccine": "Rinotraqueítis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V14-5",
+                "date": "2023-07-26",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V14-1",
+                "date": "2023-07-15",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V14-3",
+                "date": "2023-02-05",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 68
+            },
+            {
+                "date": "2024-12-07",
+                "weight": 75
+            },
+            {
+                "date": "2024-08-09",
+                "weight": 76
+            },
+            {
+                "date": "2024-04-11",
+                "weight": 73
+            },
+            {
+                "date": "2023-12-13",
+                "weight": 79
+            },
+            {
+                "date": "2023-08-15",
+                "weight": 70
+            },
+            {
+                "date": "2023-04-17",
+                "weight": 65
+            },
+            {
+                "date": "2022-12-18",
+                "weight": 64
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Rosado 15",
+        "species": "Porcino",
+        "breed": "Duroc",
+        "birth_date": "2019-04-10",
+        "age": "5 años, 12 meses",
+        "weight": 225,
+        "location": "Potrero Sur",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2019-10-12",
+        "vaccination_history": [
+            {
+                "id": "V15-3",
+                "date": "2025-01-23",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V15-5",
+                "date": "2024-08-22",
+                "vaccine": "Aftosa",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V15-4",
+                "date": "2024-07-03",
+                "vaccine": "Rabia",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V15-1",
+                "date": "2024-01-10",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V15-2",
+                "date": "2022-07-18",
+                "vaccine": "Rabia",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 225
+            },
+            {
+                "date": "2024-07-07",
+                "weight": 248
+            },
+            {
+                "date": "2023-10-08",
+                "weight": 232
+            },
+            {
+                "date": "2023-01-08",
+                "weight": 232
+            },
+            {
+                "date": "2022-04-10",
+                "weight": 242
+            },
+            {
+                "date": "2021-07-11",
+                "weight": 218
+            },
+            {
+                "date": "2020-10-11",
+                "weight": 235
+            },
+            {
+                "date": "2020-01-12",
+                "weight": 221
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Barbudo 16",
+        "species": "Caprino",
+        "breed": "Alpina",
+        "birth_date": "2021-01-11",
+        "age": "4 años, 2 meses",
+        "weight": 70,
+        "location": "Lote 1",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2021-02-03",
+        "vaccination_history": [
+            {
+                "id": "V16-2",
+                "date": "2024-11-30",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V16-5",
+                "date": "2024-08-19",
+                "vaccine": "Carbunclo",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V16-3",
+                "date": "2023-11-10",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V16-1",
+                "date": "2022-12-08",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V16-4",
+                "date": "2022-09-15",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M16-1",
+                "date": "2022-11-06",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 70
+            },
+            {
+                "date": "2024-09-25",
+                "weight": 70
+            },
+            {
+                "date": "2024-03-16",
+                "weight": 69
+            },
+            {
+                "date": "2023-09-05",
+                "weight": 75
+            },
+            {
+                "date": "2023-02-24",
+                "weight": 80
+            },
+            {
+                "date": "2022-08-15",
+                "weight": 77
+            },
+            {
+                "date": "2022-02-03",
+                "weight": 70
+            },
+            {
+                "date": "2021-07-25",
+                "weight": 74
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Rosado 17",
+        "species": "Porcino",
+        "breed": "Yorkshire",
+        "birth_date": "2016-05-05",
+        "age": "8 años, 11 meses",
+        "weight": 203,
+        "location": "Potrero Sur",
+        "health": "En recuperación",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2019-04-28",
+        "vaccination_history": [
+            {
+                "id": "V17-4",
+                "date": "2024-11-08",
+                "vaccine": "Rabia",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V17-1",
+                "date": "2024-03-07",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V17-5",
+                "date": "2024-01-04",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V17-3",
+                "date": "2023-08-20",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V17-2",
+                "date": "2022-11-19",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M17-1",
+                "date": "2022-11-14",
+                "type": "Cirugía",
+                "medications": [
+                    "Suero",
+                    "Suero",
+                    "Antiparasitario"
+                ],
+                "notes": "Procedimiento quirúrgico de emergencia. Recuperación normal."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 203
+            },
+            {
+                "date": "2024-02-24",
+                "weight": 202
+            },
+            {
+                "date": "2023-01-13",
+                "weight": 205
+            },
+            {
+                "date": "2021-12-02",
+                "weight": 205
+            },
+            {
+                "date": "2020-10-21",
+                "weight": 222
+            },
+            {
+                "date": "2019-09-10",
+                "weight": 218
+            },
+            {
+                "date": "2018-07-30",
+                "weight": 211
+            },
+            {
+                "date": "2017-06-18",
+                "weight": 234
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Saltarín 18",
+        "species": "Caprino",
+        "breed": "Boer",
+        "birth_date": "2022-01-28",
+        "age": "3 años, 2 meses",
+        "weight": 49,
+        "location": "Potrero Norte",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2023-08-19",
+        "vaccination_history": [
+            {
+                "id": "V18-2",
+                "date": "2025-03-03",
+                "vaccine": "Rabia",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V18-1",
+                "date": "2025-02-27",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V18-4",
+                "date": "2024-07-02",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V18-3",
+                "date": "2023-07-09",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M18-1",
+                "date": "2024-08-16",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antibiótico"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            },
+            {
+                "id": "M18-2",
+                "date": "2022-12-04",
+                "type": "Tratamiento",
+                "medications": [
+                    "Suero",
+                    "Vitaminas"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 49
+            },
+            {
+                "date": "2024-11-12",
+                "weight": 46
+            },
+            {
+                "date": "2024-06-20",
+                "weight": 50
+            },
+            {
+                "date": "2024-01-27",
+                "weight": 49
+            },
+            {
+                "date": "2023-09-04",
+                "weight": 55
+            },
+            {
+                "date": "2023-04-12",
+                "weight": 50
+            },
+            {
+                "date": "2022-11-18",
+                "weight": 46
+            },
+            {
+                "date": "2022-06-26",
+                "weight": 51
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Estrella 19",
+        "species": "Equino",
+        "breed": "Árabe",
+        "birth_date": "2015-09-24",
+        "age": "9 años, 6 meses",
+        "weight": 569,
+        "location": "Campo Sur",
+        "health": "En recuperación",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2018-12-30",
+        "vaccination_history": [
+            {
+                "id": "V19-2",
+                "date": "2024-05-15",
+                "vaccine": "Rabia",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V19-4",
+                "date": "2024-03-27",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V19-3",
+                "date": "2023-12-06",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V19-5",
+                "date": "2023-09-27",
+                "vaccine": "Carbunclo",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V19-1",
+                "date": "2022-08-09",
+                "vaccine": "Brucelosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M19-2",
+                "date": "2024-08-15",
+                "type": "Cirugía",
+                "medications": [
+                    "Antiinflamatorio",
+                    "Antiinflamatorio",
+                    "Vitaminas"
+                ],
+                "notes": "Procedimiento quirúrgico menor. Recuperación normal."
+            },
+            {
+                "id": "M19-3",
+                "date": "2023-04-29",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antibiótico",
+                    "Antibiótico",
+                    "Antiinflamatorio"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            },
+            {
+                "id": "M19-1",
+                "date": "2023-01-29",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 569
+            },
+            {
+                "date": "2024-01-27",
+                "weight": 605
+            },
+            {
+                "date": "2022-11-18",
+                "weight": 620
+            },
+            {
+                "date": "2021-09-09",
+                "weight": 650
+            },
+            {
+                "date": "2020-07-01",
+                "weight": 579
+            },
+            {
+                "date": "2019-04-23",
+                "weight": 545
+            },
+            {
+                "date": "2018-02-12",
+                "weight": 570
+            },
+            {
+                "date": "2016-12-04",
+                "weight": 635
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Estrella 20",
+        "species": "Equino",
+        "breed": "Árabe",
+        "birth_date": "2023-02-17",
+        "age": "2 años, 1 meses",
+        "weight": 442,
+        "location": "Potrero Sur",
+        "health": "Enfermo",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2025-01-30",
+        "vaccination_history": [
+            {
+                "id": "V20-1",
+                "date": "2025-01-30",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V20-4",
+                "date": "2025-01-09",
+                "vaccine": "Rabia",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V20-2",
+                "date": "2024-12-10",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V20-5",
+                "date": "2023-12-21",
+                "vaccine": "Aftosa",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V20-3",
+                "date": "2023-09-23",
+                "vaccine": "Rinotraqueítis",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M20-2",
+                "date": "2024-11-03",
+                "type": "Enfermedad",
+                "medications": [
+                    "Antiparasitario"
+                ],
+                "notes": "Presenta problemas digestivos. Requiere tratamiento."
+            },
+            {
+                "id": "M20-1",
+                "date": "2024-05-22",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M20-3",
+                "date": "2024-03-04",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 442
+            },
+            {
+                "date": "2024-11-28",
+                "weight": 498
+            },
+            {
+                "date": "2024-07-22",
+                "weight": 445
+            },
+            {
+                "date": "2024-03-15",
+                "weight": 441
+            },
+            {
+                "date": "2023-11-07",
+                "weight": 516
+            },
+            {
+                "date": "2023-07-01",
+                "weight": 500
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Rayo 21",
+        "species": "Equino",
+        "breed": "Pura Sangre",
+        "birth_date": "2021-10-27",
+        "age": "3 años, 5 meses",
+        "weight": 515,
+        "location": "Lote 2",
+        "health": "Enfermo",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2023-01-01",
+        "vaccination_history": [
+            {
+                "id": "V21-3",
+                "date": "2024-11-19",
+                "vaccine": "Tétanos",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V21-2",
+                "date": "2023-11-01",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V21-1",
+                "date": "2023-02-26",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M21-2",
+                "date": "2024-10-30",
+                "type": "Enfermedad",
+                "medications": [
+                    "Vitaminas"
+                ],
+                "notes": "Presenta problemas digestivos. Requiere tratamiento."
+            },
+            {
+                "id": "M21-1",
+                "date": "2023-08-20",
+                "type": "Tratamiento",
+                "medications": [
+                    "Suero",
+                    "Suero",
+                    "Suero"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 515
+            },
+            {
+                "date": "2024-10-31",
+                "weight": 598
+            },
+            {
+                "date": "2024-05-27",
+                "weight": 550
+            },
+            {
+                "date": "2023-12-22",
+                "weight": 513
+            },
+            {
+                "date": "2023-07-18",
+                "weight": 519
+            },
+            {
+                "date": "2023-02-11",
+                "weight": 500
+            },
+            {
+                "date": "2022-09-07",
+                "weight": 601
+            },
+            {
+                "date": "2022-04-03",
+                "weight": 567
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Blanco 22",
+        "species": "Ovino",
+        "breed": "Romney Marsh",
+        "birth_date": "2020-03-19",
+        "age": "5 años, 0 meses",
+        "weight": 108,
+        "location": "Establo",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2021-05-27",
+        "vaccination_history": [
+            {
+                "id": "V22-1",
+                "date": "2024-06-03",
+                "vaccine": "Leptospirosis",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M22-1",
+                "date": "2024-12-02",
+                "type": "Tratamiento",
+                "medications": [
+                    "Antiinflamatorio",
+                    "Antiparasitario",
+                    "Suero"
+                ],
+                "notes": "Aplicación de tratamiento según prescripción."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 108
+            },
+            {
+                "date": "2024-08-19",
+                "weight": 105
+            },
+            {
+                "date": "2024-01-02",
+                "weight": 114
+            },
+            {
+                "date": "2023-05-17",
+                "weight": 103
+            },
+            {
+                "date": "2022-09-29",
+                "weight": 121
+            },
+            {
+                "date": "2022-02-11",
+                "weight": 123
+            },
+            {
+                "date": "2021-06-26",
+                "weight": 122
+            },
+            {
+                "date": "2020-11-08",
+                "weight": 105
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Manchado 23",
+        "species": "Ovino",
+        "breed": "Merino",
+        "birth_date": "2020-06-11",
+        "age": "4 años, 10 meses",
+        "weight": 108,
+        "location": "Lote 2",
+        "health": "Saludable",
+        "notes": "Animal en buen estado general.",
+        "photo": null,
+        "registration_date": "2022-09-02",
+        "vaccination_history": [
+            {
+                "id": "V23-2",
+                "date": "2024-08-12",
+                "vaccine": "Carbunclo",
+                "vet": "Dr. Martínez",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V23-1",
+                "date": "2023-12-21",
+                "vaccine": "Tétanos",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            },
+            {
+                "id": "V23-3",
+                "date": "2023-05-17",
+                "vaccine": "Parainfluenza",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 108
+            },
+            {
+                "date": "2024-08-29",
+                "weight": 126
+            },
+            {
+                "date": "2024-01-22",
+                "weight": 115
+            },
+            {
+                "date": "2023-06-16",
+                "weight": 104
+            },
+            {
+                "date": "2022-11-08",
+                "weight": 112
+            },
+            {
+                "date": "2022-04-02",
+                "weight": 126
+            },
+            {
+                "date": "2021-08-25",
+                "weight": 120
+            },
+            {
+                "date": "2021-01-17",
+                "weight": 104
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Rizo 24",
+        "species": "Ovino",
+        "breed": "Merino",
+        "birth_date": "2023-09-13",
+        "age": "1 años, 6 meses",
+        "weight": 87,
+        "location": "Lote 2",
+        "health": "En recuperación",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2024-01-22",
+        "vaccination_history": [
+            {
+                "id": "V24-2",
+                "date": "2024-08-20",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. Martínez",
+                "notes": "Vacunación preventiva"
+            },
+            {
+                "id": "V24-1",
+                "date": "2023-10-08",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. García",
+                "notes": "Aplicación de rutina"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M24-1",
+                "date": "2024-12-18",
+                "type": "Cirugía",
+                "medications": [
+                    "Antiparasitario",
+                    "Vitaminas",
+                    "Vitaminas"
+                ],
+                "notes": "Procedimiento quirúrgico de emergencia. Recuperación normal."
+            },
+            {
+                "id": "M24-3",
+                "date": "2024-01-09",
+                "type": "Revisión",
+                "medications": [],
+                "notes": "Revisión de rutina. Animal en buenas condiciones."
+            },
+            {
+                "id": "M24-2",
+                "date": "2023-11-13",
+                "type": "Enfermedad",
+                "medications": [
+                    "Suero",
+                    "Antibiótico"
+                ],
+                "notes": "Presenta problemas digestivos. Requiere tratamiento."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 87
+            },
+            {
+                "date": "2024-11-15",
+                "weight": 85
+            },
+            {
+                "date": "2024-06-26",
+                "weight": 92
+            },
+            {
+                "date": "2024-02-05",
+                "weight": 89
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Panza 25",
+        "species": "Porcino",
+        "breed": "Yorkshire",
+        "birth_date": "2022-08-27",
+        "age": "2 años, 7 meses",
+        "weight": 111,
+        "location": "Establo",
+        "health": "Enfermo",
+        "notes": "Requiere observación periódica.",
+        "photo": null,
+        "registration_date": "2024-09-13",
+        "vaccination_history": [
+            {
+                "id": "V25-1",
+                "date": "2025-02-19",
+                "vaccine": "Clostridiosis",
+                "vet": "Dr. García",
+                "notes": "Vacunación preventiva"
+            }
+        ],
+        "medical_history": [
+            {
+                "id": "M25-1",
+                "date": "2024-01-14",
+                "type": "Enfermedad",
+                "medications": [
+                    "Antiparasitario"
+                ],
+                "notes": "Presenta problemas respiratorios. Requiere tratamiento."
+            }
+        ],
+        "weight_history": [
+            {
+                "date": "2025-04-06",
+                "weight": 111
+            },
+            {
+                "date": "2024-11-21",
+                "weight": 120
+            },
+            {
+                "date": "2024-07-08",
+                "weight": 112
+            },
+            {
+                "date": "2024-02-23",
+                "weight": 130
+            },
+            {
+                "date": "2023-10-10",
+                "weight": 113
+            },
+            {
+                "date": "2023-05-27",
+                "weight": 109
+            },
+            {
+                "date": "2023-01-11",
+                "weight": 127
+            }
+        ]
+    }
+]

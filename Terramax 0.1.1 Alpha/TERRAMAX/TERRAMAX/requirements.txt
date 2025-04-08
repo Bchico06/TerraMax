@@ -1,0 +1,26 @@
+# Dependencias básicas para TERRAMAX - Sistema de Gestión Veterinaria
+# La mayoría son bibliotecas estándar de Python
+
+# Interfaz gráfica (incluida en Python por defecto)
+# tkinter
+
+# Manejo de datos (incluida en Python por defecto)
+# json
+# os
+# hashlib
+# base64
+
+# Dependencia externa para el calendario
+tkcalendar==1.6.1
+
+# Esta aplicación utiliza:
+# - tkinter para la interfaz gráfica
+# - json para almacenamiento de configuración
+# - hashlib para encriptar el PIN de acceso
+# - tkcalendar para el componente de calendario en el dashboard
+
+# Instalar dependencias: pip install -r requirements.txt 
+
+pillow==10.2.0
+matplotlib==3.8.2
+babel==2.17.0 
